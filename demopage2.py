@@ -4,7 +4,7 @@ import streamlit as st
 
 st.page_link("demopage2.py", label="Home", icon="🏠")
 
-st.page_link("pages/untitled2.py", label="untitled1", icon="1️⃣")
+st.page_link("pages/untitled1.py", label="untitled1", icon="1️⃣")
 
 # st.page_link("pages/stockdashboard.py", label="stockdashboard", icon="📈")
 
